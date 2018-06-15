@@ -1,0 +1,31 @@
+
+Add your name to this file and send me a pull request!
+
+1) If you haven't already, fork this lesson into your own GitHub repository.
+2) Either edit the text file in the GitHub web interface or (if you want the practice) clone it into your local space, edit there, and push.
+3) Send me a pull request. (This one will be the base and yours will be the head.)
+
+Contributors:
+Dena Strong
+Somebody else
+Join the crew!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+David G.
