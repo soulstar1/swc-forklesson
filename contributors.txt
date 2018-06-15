@@ -6,4 +6,5 @@ Add your name to this file and send me a pull request!
 
 Contributors:
 Dena Strong
+David Gerstenecker
 Join the crew!
