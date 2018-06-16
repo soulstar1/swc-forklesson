@@ -1,3 +1,4 @@
+
 Add your name to this file and send me a pull request!
 
 1) If you haven't already, fork this lesson into your own GitHub repository.
@@ -7,5 +8,14 @@ Add your name to this file and send me a pull request!
 Contributors:
 Dena Strong
 Jeff Fox
-Somebody else
-Join the crew!
+Matt Seng
+Kathleen Booth
+Bryan Jonker
+Jack Thomas
+Alan Schuele
+Stefanie Borntreger
+Robb Mullins
+Daniel Lewart
+David G.
+uttam roy
+Maggie Jarvis
