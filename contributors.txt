@@ -7,6 +7,7 @@ Add your name to this file and send me a pull request!
 
 Contributors:
 Dena Strong
+Jack Thomas
 Alan Schuele
 Stefanie Borntreger
 Robb Mullins
